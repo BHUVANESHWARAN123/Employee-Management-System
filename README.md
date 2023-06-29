@@ -1,4 +1,4 @@
-# Employee-Management-System
+# Employee-Management-System🧑‍💻🧑‍💻
 
 The task is to create a Database-driven Employee Management System in Python that will store the information in the MySQL Database. The script will contain the following operations :
 
